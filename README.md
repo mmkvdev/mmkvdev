@@ -22,4 +22,4 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/git/git.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://reactnative.dev/img/header_logo.svg"></code>
-<code><img height="60" src="https://assets.vercel.com/image/upload/v1538361091/repositories/next-js/next-js.png"></code>
+<code><img height="60" src="https://bit.ly/31bFL8a"></code>
