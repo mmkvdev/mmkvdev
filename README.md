@@ -27,7 +27,7 @@
 
 ---
 
-[![MMK's github stats](https://github-readme-stats.vercel.app/api?username=mmkvdev&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![MMK's github stats](https://github-readme-stats.vercel.app/api?username=mmkvdev&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/mmkvdev/)
 
 ---
 
