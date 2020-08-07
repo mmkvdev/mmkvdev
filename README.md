@@ -27,25 +27,9 @@
 
 ---
 
-[![MMK's github stats](https://github-readme-stats.vercel.app/api?username=mmkvdev&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/mmkvdev/)
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmkvdev&theme=dark&layout=compact)](https://github.com/mmkvdev/)
-
-
----
-
-<a href="https://github.com/mmkvdev/leetcode">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mmkvdev&repo=leetcode&theme=dark" />
+<a href="https://github.com/mmkvdev/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mmkvdev&hide=stars&count_private=true&show_icons=true&theme=gotham" />
 </a>
-<a href="https://github.com/mmkvdev/VIL">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mmkvdev&repo=VIL&theme=dark" />
+<a href="https://github.com/mmkvdev/">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmkvdev&theme=gotham&layout=compact" />
 </a>
-<a href="https://github.com/mmkvdev/jsEveryDay">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mmkvdev&repo=jsEveryDay&theme=dark" />
-</a>
-<a href="https://github.com/mmkvdev/MMKblog">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mmkvdev&repo=MMKblog&theme=dark" />
-</a>
-
