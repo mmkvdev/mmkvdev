@@ -24,3 +24,28 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/git/git.png"></code>
 <code><img height="35" src="https://bit.ly/3gsTqhF"></code>
 <code><img height="40" src="https://bit.ly/31bFL8a"></code>
+
+---
+
+[![MMK's github stats](https://github-readme-stats.vercel.app/api?username=mmkvdev&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mmkvdev&theme=dark&layout=compact)](https://github.com/mmkvdev/)
+
+
+---
+
+<a href="https://github.com/mmkvdev/leetcode">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mmkvdev&repo=leetcode&theme=dark" />
+</a>
+<a href="https://github.com/mmkvdev/VIL">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mmkvdev&repo=VIL&theme=dark" />
+</a>
+<a href="https://github.com/mmkvdev/jsEveryDay">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mmkvdev&repo=jsEveryDay&theme=dark" />
+</a>
+<a href="https://github.com/mmkvdev/MMKblog">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=mmkvdev&repo=MMKblog&theme=dark" />
+</a>
+
