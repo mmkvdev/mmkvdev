@@ -26,10 +26,3 @@
 <code><img height="40" src="https://bit.ly/31bFL8a"></code>
 
 ---
-
-<a href="https://github.com/mmkvdev/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mmkvdev&hide=stars&count_private=true&show_icons=true&theme=gotham" />
-</a>
-<a href="https://github.com/mmkvdev/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmkvdev&theme=gotham&layout=compact" />
-</a>
