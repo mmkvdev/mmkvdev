@@ -5,7 +5,9 @@
 -->
 - 🔭 I’m currently working on MERN STACK
 - 🌱 I’m currently learning React Native
-- 📫 How to reach me: madhuv299@gmail.com
+- 📫 Reach me out: 
+    * [Email](madhuv299@gmail.com)
+    * [Patreon](https://www.patreon.com/madhukiranvarma)
 
 
 **Languages :**  
