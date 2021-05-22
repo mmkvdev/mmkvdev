@@ -5,7 +5,6 @@
 -->
 - 📫 Reach me out: 
     * **Email**: madhuv299@gmail.com
-    * [**Patreon**](https://www.patreon.com/mrrobot7997)
 
 
 **Languages :**  
